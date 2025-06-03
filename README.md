@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,html,css,tailwind,unity,cs,cpp,github,git" alt="Tech Stack" />
 
 ---
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 
 ### 🔥 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SheharyarRao&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheharyarRao&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheharyarRao&layout=compact&theme=dark)
 
