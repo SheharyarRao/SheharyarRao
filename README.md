@@ -40,7 +40,13 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧸 Fun GIF
+### 🔍 Truth in the Code  
+> *Data doesn’t lie — it just needs to be read right.*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4cXh3c3MzN3BreDc3MDZ1aW5kcmdmMXg0bGUydHBwZzFhYmgxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Data Doesn't Lie" width="400" />
+</p>
+
 ![Data Doesn't Lie](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4cXh3c3MzN3BreDc3MDZ1aW5kcmdmMXg0bGUydHBwZzFhYmgxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
 
