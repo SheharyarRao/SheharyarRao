@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 ---
 
 ### 🧸 Fun GIF
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4cXh3c3MzN3BreDc3MDZ1aW5kcmdmMXg0bGUydHBwZzFhYmgxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" alt="Data Doesn't Lie GIF" />
+![Data Doesn't Lie](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4cXh3c3MzN3BreDc3MDZ1aW5kcmdmMXg0bGUydHBwZzFhYmgxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+
 
 
 
