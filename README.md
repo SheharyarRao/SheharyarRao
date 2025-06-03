@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 ### 🔥 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheharyarRao&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheharyarRao&layout=compact&theme=dark)
 
 ---
 
