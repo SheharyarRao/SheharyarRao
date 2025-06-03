@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 
 ### 🧸 Fun GIF
 <img src="[https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3U5dXVlNnM2eW03aWJlc3pza250aW4zNThxaXYxNDRldGk1ZHQ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)" width="480" height="480" />
+
+<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
