@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,html,css,tailwind,unity,cs,cpp,github,git" alt="Tech Stack" />
 
 ---
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+
 
 ### 🔥 GitHub Stats
 
