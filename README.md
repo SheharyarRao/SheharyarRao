@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="400" alt="Cool Penguin GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Cool Penguin GIF" />
   
 </p>
 
