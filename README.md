@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SheharyarRao/SheharyarRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://media.giphy.com/media/kC3DeAjTqy4g3XMkD3/giphy.gif" width="200"/>
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
-# Hi, I’m Your Name 👋
 
-**Software Developer | Web Enthusiast | Open Source Contributor**
+# Hi, I’m K.Sheharyar👋
+
+**Software Developer | Web Developer | Game Developer | Open Source Contributor**
 
 ---
 
