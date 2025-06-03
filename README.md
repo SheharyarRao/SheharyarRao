@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/kC3DeAjTqy4g3XMkD3/giphy.gif" width="200"/>
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+<img src="" width="200"/>
 
 
 # Hi, I’m K.Sheharyar👋
@@ -38,4 +37,4 @@ Here are some ideas to get you started:
 ---
 
 ### 🧸 Fun GIF
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4cXh3c3MzN3BreDc3MDZ1aW5kcmdmMXg0bGUydHBwZzFhYmgxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif)" />
