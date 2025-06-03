@@ -16,7 +16,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="400" alt="Cool Penguin GIF" />
 </p>
 
-![Cool Penguin](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47ikh2tukyxhll2nl4s69c3y4u3d4y2gqcvhh3qrwg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 
