@@ -12,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4cXh3c3MzN3BreDc3MDZ1aW5kcmdmMXg0bGUydHBwZzFhYmgxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47ikh2tukyxhll2nl4s69c3y4u3d4y2gqcvhh3qrwg&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="200"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="400" alt="Cool Penguin GIF" />
+</p>
+
+![Cool Penguin](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47ikh2tukyxhll2nl4s69c3y4u3d4y2gqcvhh3qrwg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 
 # Hi, I’m K.Sheharyar👋
