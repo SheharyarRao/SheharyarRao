@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 
 ----
 ### Dev - Card
-
+<p align="center">
 <a href="https://app.daily.dev/sheharyarrao"><img src="https://api.daily.dev/devcards/v2/NuYp4afwQjF62c3d9PPX6.png?type=default&r=isu" width="356" alt="Sheharyar RaO's Dev Card"/></a>
-
+</p>
 ---
 
 ### 🌐 Connect With Me
