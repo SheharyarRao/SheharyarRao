@@ -70,6 +70,12 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4cXh3c3MzN3BreDc3MDZ1aW5kcmdmMXg0bGUydHBwZzFhYmgxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Data Doesn't Lie" width="400" />
 </p>
 
+----
+### Dev - Card
+
+<a href="https://app.daily.dev/sheharyarrao"><img src="https://api.daily.dev/devcards/v2/NuYp4afwQjF62c3d9PPX6.png?type=default&r=isu" width="356" alt="Sheharyar RaO's Dev Card"/></a>
+
+---
 
 ### 🌐 Connect With Me
 <p align="center">
